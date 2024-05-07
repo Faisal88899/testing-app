@@ -9,3 +9,8 @@ var num1 = "faisal jameel "
     roll: 77,
     
  } 
+
+ var firstName = " abdullah";
+ var last_Name = " hussan"
+
+ console.log(firstName + last_Name)
