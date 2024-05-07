@@ -14,3 +14,5 @@ var num1 = "faisal jameel "
  var last_Name = " hussan"
 
  console.log(firstName + last_Name)
+
+ var  phone = "03333333"
