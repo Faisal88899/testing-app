@@ -25,3 +25,6 @@ var name = "faisal "
 
 const num1 = [1, 2, 3, 5, 6, 88];
 var faisal = "aligohar"
+
+let title ="product NamedNodeMap"
+console.log(title)
